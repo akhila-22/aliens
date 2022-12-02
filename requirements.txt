@@ -5,6 +5,7 @@ charset-normalizer==2.1.1
 Django==4.1.1
 django-extensions==3.2.1
 django-widget-tweaks==1.4.8
+djangorestframework==3.14.0
 graphviz==0.20.1
 idna==3.4
 numpy==1.23.3
